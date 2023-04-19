@@ -61,7 +61,7 @@ Built With
 Authors
 -------
 
--   Your Name - Tahir Aydın(https://github.com/tahiraydin)
+-   Tahir Aydın(https://github.com/tahiraydin)
 
 Acknowledgments
 ---------------
